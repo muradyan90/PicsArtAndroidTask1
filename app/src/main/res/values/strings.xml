@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">PA android Task 1</string>
+    <string name="set_text">SET TEXT</string>
+    <string name="enter_your_text">Enter your text</string>
+    <string name="enter_score">Enter score</string>
+    <string name="roll_label">Roll</string>
+    <string name="start_new_game">Start new game</string>
+    <string name="player_1">Player 1</string>
+    <string name="player_2">Player 2</string>
+    <string name="show">show</string>
+    <string name="last_3_rolls">last 3 rolls</string>
+    <string name="hide">hide</string>
+    <string name="title_activity_nav_drawer">NavDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="winner">"Winner\nscore-%1$s"</string>
+    <string name="loser">"Loseeer!!!\nscore-%1$s"</string>
+    <string name="large_text">I loved all the surreal touches in this colourful work. For example, Bacchus can be seen and heard by his worshippers as he reclines on a platform held up by small humans. Readers who are averse to that sort of thing are warned that the story includes depictions of Baal worship. That accounts for one of the many gory scenes in a narrative punctuated by sacrifices, whether made out of love or fear, in temples or on the battlefield. Some of those scenes might be off-putting for sensitive readers.
+
+The comic book covers also state that this is recommended for a mature audience. It includes full-frontal nudity and depictions of sex, which arent particularly graphic in themselves. Women are quite stereotyped as manipulative or downright evil, though the male characters also have their faults. Indeed, the plot is propelled by Samsons tragic flaw. This does make for a gripping story about a classic hero.
+
+He has the physique to match, and this book is a feast of eye candy. Muscular men showcase their strength in arid valleys where forgotten paths climb among the goat pastures. The art is spectacular. Many explanations are included to keep the story clear; colour-coded speech bubbles help to show who is speaking. I struggled a little to read the red writing on a black background, but the high-resolution file the author shared allowed for zooming in. The writing style is often poetic and sometimes archaic in keeping with the biblical theme. Different fonts are used creatively, and the text appears to have been prepared with care.
+
+All in all, I would recommend this to comic book lovers, especially those who enjoy stories of the ancient world. There is no reason why the biblical theme in itself should restrict the recommended audience to Christians. The book could be unsuitable for some audiences on certain grounds as described above. Despite clear signposts, I was slightly confused at times when the story jumped around. I have no significant shortcomings to report, however. This feast of strength and sweetness deserves a rating of four out of four stars.</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+
+</resources>
